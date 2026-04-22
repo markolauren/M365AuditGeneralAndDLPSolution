@@ -6,6 +6,8 @@ This solution provides **two codeless connectors (CCF)** for ingesting Microsoft
 - **Microsoft 365 Audit.General** - General audit logs (29 specialty workloads)
 - **Microsoft 365 Audit.DLP** - Data Loss Prevention events
 
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmarkolauren%2FM365AuditGeneralAndDLPSolution%2Frefs%2Fheads%2Fmain%2FmainTemplate.json)
+
 ## Overview
 
 These connectors use the **Office 365 Management Activity API** to retrieve Microsoft 365 audit logs into a shared **321-column schema** covering **30 specialty workload types**:
