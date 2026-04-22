@@ -173,6 +173,6 @@ Both connectors share the same DCE, DCR, and table - differing only in the API e
 
 - [Office 365 Management Activity API Reference](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)
 - [Office 365 Management Activity API Schema](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-schema)
-- [Microsoft Sentinel Codeless Connector Platform (CCP)](https://learn.microsoft.com/azure/sentinel/create-codeless-connector)
+- [Microsoft Sentinel Codeless Connector Framework (CCF)](https://learn.microsoft.com/azure/sentinel/create-codeless-connector)
 - [Azure Monitor Data Collection Rules](https://learn.microsoft.com/azure/azure-monitor/essentials/data-collection-rule-overview)
 - [Microsoft Entra ID App Registrations](https://learn.microsoft.com/entra/identity-platform/quickstart-register-app)
