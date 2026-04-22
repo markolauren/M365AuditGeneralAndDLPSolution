@@ -1,4 +1,4 @@
-# Microsoft 365 Audit General & DLP Solution v1.0.0
+# Microsoft 365 Audit General & DLP Solution v3.0.0
 
 **Author**: Marko Lauren
 
